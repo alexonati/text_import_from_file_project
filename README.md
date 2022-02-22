@@ -1,2 +1,2 @@
-# text_import_from_file_project
+# A project to import/export text from a txt file.
  
